@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "meiosis_anaphase_1-56a09b4c5f9b58eba4b2052b.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
